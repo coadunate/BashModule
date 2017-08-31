@@ -1,0 +1,10 @@
+{
+  "commandline": {
+    "name": "mycommand",
+    "arg1": "this is it",
+    "V": "", 
+    "arg2": "more stuff",
+    "f": "stuff",
+    "g": "morestuff"
+  }
+}

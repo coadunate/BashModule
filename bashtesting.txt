@@ -1,0 +1,4 @@
+commandline --arg1 ThisIsIt --arg2 morestuff --name mycommand -g morestuff -f stuff 
+samtools mpileup -C50 -gf ref.fasta -r chr3:1,000-2,000 in1.bam in2.bam
+
+
